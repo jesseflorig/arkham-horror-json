@@ -1,0 +1,24 @@
+{
+  "name": "arkham-horror-data",
+  "version": "1.0.0",
+  "description": "Arkham Horror boardgame data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseflorig/arkham-horror-data.git"
+  },
+  "keywords": [
+    "arkham",
+    "horror",
+    "lovecraft"
+  ],
+  "author": "Jesse Florig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseflorig/arkham-horror-data/issues"
+  },
+  "homepage": "https://github.com/jesseflorig/arkham-horror-data#readme"
+}
