@@ -16,10 +16,12 @@ Please [open a ticket](https://github.com/jesseflorig/arkham-horror-data/issues/
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :tada:
+
 When adding images please use [TinyPNG](https://tinypng.com/) to reduce their file-size as much as possible without affecting image quality.
 ## Projects
 _Coming Soon!_
 ## License
 [ISC](https://opensource.org/licenses/ISC)
+
 ---
 Arkham Horror and all related properties, images and text are owned by Fantasy Flight Games.
