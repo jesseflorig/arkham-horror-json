@@ -247,54 +247,47 @@
   {
 		"name": "Nyarlathotep",
 		"img": "images/ancient-ones/nyarlathotep.png",
-		"combatRating": "",
-		"defenses": "",
-		"worshippers": " ",
+		"combatRating": "-4",
+		"defenses": "Magical Resistance",
+		"worshippers": "Nyarlathotep has innumberable cults all over the world. <strong>Cultitsts</strong> have the <strong>Endless</strong> ability.",
 		"activeText": [
-      ""
+      "Cultists have Endless",
+			"Add all Mask monsters to the cup at the beginning of the game"
     ],
 		"power": {
-      "title": "",
-      "text": ""
+      "title": "A Thousand Masks",
+      "text": "At the start of the game add the 5 <strong>Mask</strong> monsters to the cup. Mutluple <strong>Mask</strong> monsters can be in play at once."
     },
-		"startOfBattle": "",
-		"attack": "",
-		"doomTrack": ,
+		"startOfBattle": "Any investigator with no Clue tokens is <strong>devoured</strong>.",
+		"attack": "Each investigator must pass a <strong>Lore(+1) check</strong> or lise one Clue token. Any investigator with no Clue tokens left is <strong>devoured</strong>. This check's modifier decreases by 1 each turn (+0 on the 2nd turn, -1 on the 3rd turn, etc.)",
+		"doomTrack": 11,
     "plots": [
       {
         "img": "images/epic-battles/nyarlathotep-1.png",
-        "investigators": {
-          "flavor:": "",
-          "text": "The investigators attack as normal.",
-        },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "What had come before was nothing compared to the trial we were sibjected to next. One at a time, the Crawling Chaos simply looked into our hearts and whispered, 'Join me.'",
+          "title": "Join Me!",
+          "text": "Starting with the first player and going clockwise around the table, each investigator is given one chance to join Nyarlathotep. If an investigator accepts this offer, he becomes a traitor and is removed from the battle against Nyarlathotep, improving Nyarlathotep's combat rating by -2( to -6). No more than one investigator can turn traitor. If the investigators lose the battle, then the traitor wins the game alone. If the investigators win the battle, the traitor is the only one who loses the game."
         }
       },
       {
         "img": "images/epic-battles/nyarlathotep-2.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "Abruptly, I saw what was happening. We were dancing to Nyarlathotep's inhuman tune without even realizing it.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "I tried to warn the other, but the jaws of the trap were already closing upon us. I could only hope that we could somehow salvage the situation.",
+          "title": "Tricked",
+          "text": "Each investigator loses all but one of his Clue tokens."
         }
       },
       {
         "img": "images/epic-battles/nyarlathotep-3.png",
-        "investigators": {
-          "flavor:": "",
-          "text": "The investigators attack as normal.",
-        },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "It was then that I remembered a terrible thing. Nyarlathotep had a thousand faces with which to battle us — all at once if he so chose.",
+          "title": "The Masks",
+          "text": "Draw one monster form the cup for each doom token on the doom track. For each <strong>Mask</strong> you fraw, one investigator is <strong>devoured</strong>."
         }
       }
     ],
@@ -303,54 +296,51 @@
   {
 		"name": "Shub-Niggurath",
 		"img": "images/ancient-ones/shub-niggurath.png",
-		"combatRating": "",
-		"defenses": "",
-		"worshippers": " ",
+		"combatRating": "-5",
+		"defenses": "Physical Immunity",
+		"worshippers": "Shub-Niggurath's young are numberless. <strong>Dark Young</strong> have the <strong>Endless</strong> ability.",
 		"activeText": [
-      ""
+      "Dark Young have the endless ability",
+			"All monsters have +1 toughness"
     ],
 		"power": {
-      "title": "",
-      "text": ""
+      "title": "Black Goat of the Woods",
+      "text": "While Shib-Niggurath stirs in her slumber, all monsters have their toughness increased by 1"
     },
-		"startOfBattle": "",
-		"attack": "",
-		"doomTrack": ,
+		"startOfBattle": "Any investigator with no monster trophies is <strong>devoured</strong>",
+		"attack": "Each investigator myst pass a <strong>Sneak(+1) check</strong> or lose 1 monster trophy. Any investigator with no monster trophies left is <strong>devoured</strong>. The check's modifier decreases by 1 each turn (+0 the 2nd turn, -1 the 3rd turn, etc.)",
+		"doomTrack": 12,
     "plots": [
       {
         "img": "images/epic-battles/shub-niggurath-1.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "The pulsing, primal form floated towards us as light as a feather. Occasionally, I could just make out a hoof kicking from within that deadly chaos.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "Almost vefore we knew it, we were surrounded and spearated from each other...",
+          "title": "Unexpected Loss",
+          "text": "Each investigator loses 1 monster trophy. Any investigator with no monster trophies left is <strong>devoured</strong>."
         }
       },
       {
         "img": "images/epic-battles/shub-niggurath-2.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "The sheer unadulterated power we were confronted with left me no real hope of victory. I was reduced to hoping for a miracle to save us.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "In the end, however, there was only Shub-Niggurath.",
+          "title": "Immeasurable Power",
+          "text": "Shub-Niggurath's combat rating improves by 1 (to -6) for the rest of the game, and she adds 1 doom token to her doom track, then she attacks normally."
         }
       },
       {
         "img": "images/epic-battles/shub-niggurath-3.png",
-        "investigators": {
-          "flavor:": "",
-          "text": "The investigators attack as normal.",
-        },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "The misty substance of the Mother of the Thousand Young parted before us, and for a moment I thought we'd won. But then, like a stampeding herd of elephants, her Young fell upon us mercilessly.",
+          "title": "The Thousand Young",
+          "text": "Each investigator immediately begins combat with a <strong>Dark Young</strong> (draw one from the cup to refer to during the fights) that he cannot evade. Each combat continues until either the Dark Young or the investigator is dead. Remove one doom token from the doom track for each Dark Young that is defeated."
         }
       }
     ],
@@ -359,54 +349,56 @@
   {
 		"name": "Yig",
 		"img": "images/ancient-ones/yig.png",
-		"combatRating": "",
-		"defenses": "",
-		"worshippers": " ",
+		"combatRating": "-3",
+		"defenses": "None",
+		"worshippers": "Yig's worshippers are actually disguised serpent people. Their bite is highly poisonous. <strong>Cultists</strong> have a combat rating of +0 and a combat damage of 4 Stamina.",
 		"activeText": [
-      ""
+      "Cultists have a combat rating of +0 and a combat damage of 4 Stamina",
+			"When a cultists is defeated, add a doom token to the doom track",
+			"When an investigator is lost in time and space, add a doom token to the doom track"
     ],
 		"power": {
-      "title": "",
-      "text": ""
+      "title": "Yig's Anger",
+      "text": "While Yig stirs in his slumber, he gains a doom token whenever a Cultist is defeated or an investigator is <em>Lost in Time and Space</em>."
     },
-		"startOfBattle": "",
-		"attack": "",
+		"startOfBattle": "Every investigator is <em>Cursed</em>. Any investigator that already has a Curse is <strong>devoured</strong>.",
+		"attack": "Each investigator must pass a <strong>Speed(+1) check</strong> or lose 1 Sanity and 1 Stamina. This check's modifier decreases by 1 each turn (+0 the 2nd turn, -1 the 3rd turn, etc.)",
 		"doomTrack": ,
     "plots": [
       {
         "img": "images/epic-battles/yig-1.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "Enraged at our presence, the creature shouted a string of words at us that hung goul and black in the air.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "ONe of my friends had no sooner heard the curse than he dropped dead, as if snakebitten.",
+          "title": "Yig's Curse",
+          "text": "Yig's <strong>Start of Battle</strong> ability activates once again, then Yig attacks as normal."
         }
       },
       {
         "img": "images/epic-battles/yig-2.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "With a gesture, a horrible, wriggling carpet of snakes was sent at us, biting anything they could reach.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "Jumping back down from a ledge I had clung to, I was shaking and pale",
+          "title": "Carpet of Snakes",
+          "text": "Roll a total of 4 dice per investigator. For every success rolled, one investigator must lose 1 Sanity or 1 Stamina."
         }
       },
       {
         "img": "images/epic-battles/yig-3.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "Hissing, the creature exhaled a cloud of greenish smoke, which I took to be some sort of venom.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "ALready weak and injured, one of my comrades died as soon as the venom touched his skin.",
+          "title": "Weakened",
+          "text": "Each investigator with 1 Sanity or 1 Stamina is <strong>devoured</strong>."
         }
       }
     ],
@@ -415,54 +407,56 @@
   {
 		"name": "Yog-Sothoth",
 		"img": "images/ancient-ones/yog-sothoth.png",
-		"combatRating": "",
-		"defenses": "",
-		"worshippers": " ",
+		"combatRating": "-5",
+		"defenses": "Magical Immunity",
+		"worshippers": "Yog-Sothoth's worshippers have powerful magical abilities. Cultitsts have Magical Immunity and a combat rating of -1.",
 		"activeText": [
-      ""
+      "Cultists have Magical Immunity and a combat rating of -1",
+			"Difficulty to close a gate is increased by 1",
+			"An investigator lost in time and space is devoured"
     ],
 		"power": {
-      "title": "",
-      "text": ""
+      "title": "The Key and the Gate",
+      "text": "While Yog-Sothoth stirs in his slumber, the difficulty to close a gate is increased by 1. In addition, any investigator <em>lost in time and space</em> is <strong>devoured</strong>."
     },
-		"startOfBattle": "",
-		"attack": "",
-		"doomTrack": ,
+		"startOfBattle": "Any investigator with no gate trophies is <strong>devoured</strong>.",
+		"attack": "Each investigator must pass a <strong>Will(+1) check</strong> or lose 1 gate trophy. Any investigator with no gate trophies left is <strong>devoured</strong>. THis check's modifier decreases by 1 each turn (+0 the second turn, -1 the 3rd turn, etc.)",
+		"doomTrack": 12,
     "plots": [
       {
         "img": "images/epic-battles/yog-sothoth-1.png",
         "investigators": {
-          "flavor:": "",
-          "text": "The investigators attack as normal.",
+          "flavor:": "Yog-Sothoth was everywhere all at once, and yet nowhere. We couldn't seem to hurt it at all.",
+					"title": "Unbeatable",
+          "text": "The investigators attack as normal, but Yog-Sothoth gains <strong>Physical Immunity</strong> until the end of round.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "Ignoring our best attacks like they were nothing, Yog-Sothoth gathered us into its clutches and attacked once again.",
+          "text": "Yog-Sothoth attacks as normal."
         }
       },
       {
         "img": "images/epic-battles/yog-sothoth-2.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "I could tell that the creature was drawing strength from each gate that remained open, but there was nothing we could do about it.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "Even assuming it would allow us to close the gates, there was no lull in the battle during which to do so.",
+          "title": "The Opener and the Way",
+          "text": "Yog-Sothoth attacks as normal, then add 1 doom token to the doom track for each gate that was open when it awakened."
         }
       },
       {
         "img": "images/epic-battles/yog-sothoth-3.png",
         "investigators": {
-          "flavor:": "",
+          "flavor:": "As we attempted to drive off Yog-Sothoth, worlds and places beyond imagining swirled around us.",
           "text": "The investigators attack as normal.",
         },
         "ancientOne": {
-          "flavor": "",
-          "title": "",
-          "text": ""
+          "flavor": "No matter how much we prepared ahead of time, there was truly no way to be ready for the attacks it threw at us.",
+          "title": "The Key and the Gate",
+          "text": "Each investigator loses one gate trophy. Any investigator with no gate trophies left is <strong>devoured</strong>."
         }
       }
     ],
