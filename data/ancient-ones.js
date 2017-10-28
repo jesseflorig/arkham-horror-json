@@ -13,7 +13,8 @@
         "text": "If Azathoth awakens, the game is over and the investigators lose."
     },
 		"attack": " The end is here! Azathoth destroys the world.",
-		"doomTrack": 14
+		"doomTrack": 14,
+		"expansion": "AKH"
 	},
 	{
 		"name": "Cthulhu",
@@ -69,7 +70,8 @@
         }
       },
     ],
-    "plotBackImg": "images/epic-battles/cthulhu-back.png"
+    "plotBackImg": "images/epic-battles/cthulhu-back.png",
+		"expansion": "AKH"
 	},
 	{
 		"name": "Hastur",
@@ -126,7 +128,8 @@
         }
       },
     ],
-    "plotBackImg": "images/epic-battles/hastur-back.png"
+    "plotBackImg": "images/epic-battles/hastur-back.png",
+		"expansion": "AKH"
 	},
 	{
 		"name": "Ithaqua",
@@ -184,7 +187,8 @@
         }
       },
     ],
-    "plotBackImg": "images/epic-battles/ithaqua-back.png"
+    "plotBackImg": "images/epic-battles/ithaqua-back.png",
+		"expansion": "AKH"
 	},
   {
 		"name": "Ithaqua",
@@ -242,7 +246,8 @@
         }
       },
     ],
-    "plotBackImg": "images/epic-battles/ithaqua-back.png"
+    "plotBackImg": "images/epic-battles/ithaqua-back.png",
+		"expansion": "AKH"
 	},
   {
 		"name": "Nyarlathotep",
@@ -291,7 +296,8 @@
         }
       }
     ],
-    "plotBackImg": "images/epic-battles/nyarlathotep-back.png"
+    "plotBackImg": "images/epic-battles/nyarlathotep-back.png",
+		"expansion": "AKH"
 	},
   {
 		"name": "Shub-Niggurath",
@@ -344,7 +350,8 @@
         }
       }
     ],
-    "plotBackImg": "images/epic-battles/shub-niggurath-back.png"
+    "plotBackImg": "images/epic-battles/shub-niggurath-back.png",
+		"expansion": "AKH"
 	},
   {
 		"name": "Yig",
@@ -402,7 +409,8 @@
         }
       }
     ],
-    "plotBackImg": "images/epic-battles/yig-back.png"
+    "plotBackImg": "images/epic-battles/yig-back.png",
+		"expansion": "AKH"
 	},
   {
 		"name": "Yog-Sothoth",
@@ -460,6 +468,7 @@
         }
       }
     ],
-    "plotBackImg": "images/epic-battles/yog-sothoth-back.png"
+    "plotBackImg": "images/epic-battles/yog-sothoth-back.png",
+		"expansion": "AKH"
 	}
 ]
