@@ -1,0 +1,14 @@
+{
+  "commonItems": [
+    {
+      "name": "",
+      "type": "",
+      "bonuses": [{ "type": "", "value": 1 }],
+      "cardText": "",
+      "hands": 1,
+      "price": 1,
+      "qty": 1,
+      "expansion": ""
+    }
+  ]
+}
