@@ -1,0 +1,30 @@
+{
+  "locations": [
+    {
+      "name": "Downtown",
+      "city": "Arkham",
+      "locations": [
+        {
+          "name": "Arkham Asylum",
+          "type": "normal",
+          "stability": "stable",
+          "features": ["clues"],
+          "ability": "Recover stamina"
+        },
+        {
+          "name": "Bank of Arkham",
+          "type": "normal",
+          "stability": "stable",
+          "features": ["blessing"],
+          "ability": "$10 Bank Loan"
+        },
+        {
+          "name": "Independence Square",
+          "type": "normal",
+          "stability": "highly unstable",
+          "features": ["clues", "unique items", "ally"]
+        }
+      ]
+    }
+  ]
+}
