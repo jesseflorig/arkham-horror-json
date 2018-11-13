@@ -1,0 +1,189 @@
+{
+  "arkhamEncounters": [
+    {
+      "neighborhood": "downtown",
+      "locationEncounters": [
+        {
+          "name": "Arkham Asylum",
+          "text": [
+            "In the Docot's study, you find a book of helpful notes gathered from inate interviews. Make a **Lore (+0) check** and consult the following chart:"
+          ],
+          "chart": {
+            "label": "Successes",
+            "contents": [
+              {
+                "result": "0",
+                "text": "Their stories fill you with horror even as you learn a few bits of knowledge. Lose 1 Sanity and gain 1 Clue token."
+              },
+              {
+                "result": "1-2",
+                "text": "You find several pieces of useful information. Gain 2 Clue tokens."
+              },
+              {
+                "result": "3+",
+                "text": "One of the interviews contains vital information. Gain 3 Clue tokens."
+              }
+            ]
+          }
+        },
+        {
+          "name": "Bank of Arkham",
+          "text": [
+            "One of the other cusomers in the bank recognizes you and offers you al ift. Move to any location or street area in Arkham. If you move to a location, immediately have an encounter there."
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "text": [
+            "A pair of friendly picnickers share their lunch with you. Gain 1 Stamina."
+          ]
+        }
+      ],
+      "expansion": "AKH"
+    },
+    {
+      "neighborhood": "downtown",
+      "locationEncounters": [
+        {
+          "name": "Arkham Asylum",
+          "text": [
+            "You are mistaken for an inamate. Doctor Mintz has the guards subdue you and conducts an expirement. Make a **Will (-1)[2] check** to discover the reuslts. If you pass, the injections seems to increase your capacity for learning. Draw 1 Skill. If you fail, his memory drug fails miserably, resulting in lost knowledge. You must discard on of the following (your choice), if able: 4 Clue tokens, or 2 Spells, or 1 Skill."
+          ]
+        },
+        {
+          "name": "Bank of Arkham",
+          "text": [
+            "You see a richly dress man making a large withdrawal. On the way out, he lights his cigar with a piece of green paper which he then drops o the ground. Pass a **Speed (-1) check** to stub it out with your toe before it burns up. You discover it to be a slightly singed two dollar bill. Gain $2."
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "text": [
+            "pass a **Fight (-1) check** to intimidate a policeman or he rousts you from the park. Move to the street."
+          ]
+        }
+      ],
+      "expansion": "AKH"
+    },
+    {
+      "neighborhood": "downtown",
+      "locationEncounters": [
+        {
+          "name": "Arkham Asylum",
+          "text": [
+            "You find some strange medicine labeled 'Dream Enhancers' in a dusty cabinet. If you choose to take it, make a **Lore (-1) check**. If you pass, your visions show you how to perform a ritual. Draw 1 Spell. Otherwise, nothing happens."
+          ]
+        },
+        {
+          "name": "Bank of Arkham",
+          "text": [
+            "You find a penny with a strang sigil carved into it. Amused, you flip it in the air, then gasp as you feel the sudden gathering of magical forces around you. Make a **Luck (-2) check**. If you pass, the penny comes up heads. You are *Blessed*. If you fial, it comes up tails. You are *Cursed*."
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "text": [
+            "There are gypisies camped in the park. THey are master thieves and you are their target. Pass a **Luck (-2) check** or lose 1 item of your choice."
+          ]
+        }
+      ],
+      "expansion": "AKH"
+    },
+    {
+      "neighborhood": "downtown",
+      "locationEncounters": [
+        {
+          "name": "Arkham Asylum",
+          "text": [
+            "Nurse Heather accidentally injects you with a sleeping draight. You may make a **Fight (-2) check** to resits. If you fial or chose not to resist, lose your next turn and gain 2 sanity from the prolonged rest. If you pass, nothing happens."
+          ]
+        },
+        {
+          "name": "Bank of Arkham",
+          "text": [
+            "A teller you've never seen before insists she just saw you come in and make a depoisite the day before. She proves it by showing you your signature. Gain $5, but lose 1 Sanity."
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "text": [
+            "You touch Founder's Rock. Make a **Luck (-1) check**. If you pass there is an electrifying shock that opens your mind to the elder things of eons past. Lose 1 Stamina, but gain 2 Clue tokens and draw 1 Spell. If you failm you find a strange carving. As you finger the grooves, a gate open here and you are drawn through it."
+          ]
+        }
+      ],
+      "expansion": "AKH"
+    },
+    {
+      "neighborhood": "downtown",
+      "locationEncounters": [
+        {
+          "name": "Arkham Asylum",
+          "text": [
+            "Nurse Heather is coming! Make a **SPeed (-1) check** to hide in time. If you pass, you see her drop something as she walks by. Draw 1 Unique Item. If you fail, she throws you out. Move to the street."
+          ]
+        },
+        {
+          "name": "Bank of Arkham",
+          "text": [
+            "A man wearing dirty and tattered clothing is loitering outside the bank. He offers to sell you his last possession to get some food money for him and his family. If you accept, pay $2 and make a **Luck (-1) check**. If you pass, draw 1 Unique Item. If you fail, draw 1 Common Item."
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "text": [
+            "Make a **Will (-1) check. If you pass it, **Anna Kaslow** the fortune tell offers her help in your investigation. Taker her Ally card if it is still available. Otherwise gain 2 Clue tokens. If you fail, nothing happens."
+          ]
+        }
+      ],
+      "expansion": "AKH"
+    },
+    {
+      "neighborhood": "downtown",
+      "locationEncounters": [
+        {
+          "name": "Arkham Asylum",
+          "text": [
+            "You hear screaming. When you open a heavy cell door to investigate, a dark shape leaps out ad you! It's an insane man in a straighjacket babbling about invisible horros. Make a **Lore (-2) check** to glean some useful information from him. If you pass, gain 2 Clue tokens. If you fail, lose 1 Stamina as he attacks you."
+          ]
+        },
+        {
+          "name": "Bank of Arkham",
+          "text": [
+            "A little old lady stand in front of you in line counting out a bag of pennies to deposit. Lose 1 Sanity."
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "text": [
+            "There are gypsies camped in the park. Make a **Luck (-1) check** if you wish to interact with them. If you pass, an old man has spread several items on a blanket for sale. Draw 1 Unique item and you may pay $1 less than the list price. If you fail, a hag comes up to you and tells you death bestows you. You scoff at her and she cuts the side of your face with her fingernail, drawing blood. Lose 1 Stamina and you are *Cursed*."
+          ]
+        }
+      ],
+      "expansion": "AKH"
+    },
+    {
+      "neighborhood": "downtown",
+      "locationEncounters": [
+        {
+          "name": "Arkham Asylum",
+          "text": [
+            "The guards of the sanitarium are aware that there is an intruder. Make a **Sneak (-1) check** to escape. If you pass, move to the street. If you fail, you are arrested and taken to the Police Station."
+          ]
+        },
+        {
+          "name": "Bank of Arkham",
+          "text": [
+            "'This is a stick-up, see? Nobody move!' Three men armed with tommy guns rob the bank while you're standing in line. Make a **Combat (-1) checl**. If you pass, you drive them off. Nothing happens. If you fail, lose all of your money."
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "text": [
+            "A shadow falls across you form no apparent source and you shiver with more than just cold. Pass a ** Will (-1) check** or lose 1 Stamina and 1 Sanity."
+          ]
+        }
+      ],
+      "expansion": "AKH"
+    }
+  ]
+}
